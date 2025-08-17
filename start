@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# FaceFusion Automation Launcher
+# Simple command to start the guided automation system
+
+echo "🎭 Starting FaceFusion Automation..."
+cd "$(dirname "$0")"
+/opt/homebrew/bin/python3.11 launch_automation.py
