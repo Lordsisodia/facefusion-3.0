@@ -1,0 +1,11 @@
+{
+  "watch_dir": "./test_watch",
+  "face_dir": "./test_faces",
+  "output_dir": "./test_output",
+  "quality_preset": "balanced",
+  "face_mappings": {
+    "keyword1": "test_faces/face1.jpg",
+    "keyword2": "test_faces/face2.jpg"
+  },
+  "default_face": "test_faces/default.jpg"
+}
